@@ -1311,11 +1311,3 @@ section {
   color: #444444;
 }
 
-@media (max-width: 768px) {
-  #footer .copyright,
-  #footer .credits {
-    float: none;
-    text-align: center;
-    padding: 2px 0;
-  }
-}
